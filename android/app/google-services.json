@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "146763664703",
+    "project_id": "changup1-3b01b",
+    "storage_bucket": "changup1-3b01b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146763664703:android:e4e3b237fafb66f22a178a",
+        "android_client_info": {
+          "package_name": "com.example.changup_mk3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX-LCQ3fB8hoP5pMleAeB6nnGaAfN5dbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146763664703:android:aeb4e5a087907f9f2a178a",
+        "android_client_info": {
+          "package_name": "com.example.changup_mk4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX-LCQ3fB8hoP5pMleAeB6nnGaAfN5dbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
